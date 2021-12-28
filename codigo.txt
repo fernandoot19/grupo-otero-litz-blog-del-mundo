@@ -1,0 +1,55 @@
+<!--Documento tipo HTML-->
+<!DOCTYPE html>
+<!--el idioma-->
+<meta charset=utf-8>
+<!--para empezar a escribir-->
+    <html> 
+        <!--encabezado-->
+        <head></head>
+        <!--el titulo-->
+        <title></title>
+        <!--el cuerpo del codigo-->
+        <body>
+            <!--tema1 de: fernando otero-->
+         <hgroup>
+             <h1>¿que pasaria si lewandoski ganara el balon de oro?</h1>
+             <h3>messi no tendria el 7 balon de oro </h3>
+             <h3> tendria mas ganas de ganr la champions</h3>
+             <h3>lo ganaria el proximo año</h3>
+         </hgroup>
+<p>este tema dice que pasaria si lewandoski ganara el balon de oro </p>
+<!--fin tema 1-->
+
+<!--tema2 de: fernando otero --> 
+<hgroup> 
+    <h1>¿vale la pena comprarse una pc gamer?</h1>
+    <h3>ventajas de tenerla pc
+    <h3>desventajas de tenerla</h3>
+    <h3>mejores componentes</h3>
+</hgroup>
+<p>tema que explica si vale la pena comprar una pc gamer </p>
+    <!--fin tema 2-->
+
+    <!--tema1 de: diego litz-->
+    <hgroup>
+        <h1>¿que pasaria si thanos no hubiera destruido las gemas?</h1>
+        <h3>no lo podrian vencer</h3>
+        <h3>tendria exceso de poder</h3>
+        <h3>tendria el control total</h3>
+        <p>tema que explica que pasaria si thanos no hubiera destruido las gemas? 
+            
+        </p>
+        <!--fin tema1-->
+    </hgroup>
+       
+    <hgroup>
+        <h1>la orden 66 fallida</h1>
+        <h3>los jedis seguirian vivos</h3>
+        <h3>los clones estarian muertos o encarcelados</h3>
+        <h3>los siths estarian completamente destruidos</h3>
+        <p>este tema explica que pasaria si se hubiera ejecutado la orden 66</p>
+        <!--fin tema2-->
+    </hgroup>
+
+        </body>
+    </html>
